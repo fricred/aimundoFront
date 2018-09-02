@@ -15,4 +15,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Production server
 
-Run `npm run prod` for a production files /server  mode
+Run `npm run prod` for a production files /server  mode in `http://localhost:3000/`. 
