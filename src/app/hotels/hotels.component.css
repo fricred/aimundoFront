@@ -1,0 +1,16 @@
+h4{
+    color: #157ab1;
+}
+
+.price-column{
+    border-top: 2px dotted #444;
+    border-left: none;
+    margin-top: 15px;
+}
+
+@media (min-width: 576px) {
+    .price-column{
+        border-left: 2px dotted #444;
+        border-top: none; 
+    }
+ }
