@@ -9,7 +9,7 @@ run `npm install` for install dependencies
 
 ## Development server
 
-Run `npm run dev` for a development enviroment server. Navigate to `http://localhost:300/`. The server will automatically reload if you change any of the api source 
+Run `npm run dev` for a development enviroment server. Navigate to `http://localhost:3000/`. The server will automatically reload if you change any of the api source 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
